@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-02 at 13 52 20 (1)](https://github.com/user-attachments/assets/d08076f3-1a49-406a-988f-ee631a6267fc)# Todo_project
+# Todo_project
 
 https://todo-project-dmso.onrender.com/
 
